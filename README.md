@@ -1,2 +1,4 @@
 # HelloWorldAPI472
-Hello world web API based on dot net framework 4.7.2
+HelloWorld Web API based on .Net Framework 4.7.2
+
+Browse to /api/values
